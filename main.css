@@ -1,0 +1,28 @@
+body,
+html {
+  font-family: "Grandstander", cursive;
+  font-size: 1.1em;
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header > img,
+footer > img {
+  height: 50px;
+  margin: 0 1em 0 1em;
+}
+
+main,
+footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+main > div {
+  border: 3px solid black;
+  padding: 1em;
+}
