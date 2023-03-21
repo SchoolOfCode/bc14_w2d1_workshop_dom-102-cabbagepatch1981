@@ -1,4 +1,4 @@
-// TASK 1 Selecting and Changing text COMPLETE.
+// TASK 1 Selecting and Changing text COMPLETE. 
 // Change the quote under successful person 
 // Select "it worked for me" with class id .quote and store in a variable DONE
 
@@ -17,7 +17,7 @@ headingOne.style.textDecorationLine = "underline";
 // TASK 3 change the webpage title in the browser tab COMPLETE
 document.title = "Pyramid Scheme"
 
-// TASK 4 getting the penny doubler working
+// TASK 4 getting the penny doubler working 
 // Double the value of the pennies variable - using what method?
 // Use the pennies variable to update the textContent of the output tag to be `${pennies} pennies`.
 
